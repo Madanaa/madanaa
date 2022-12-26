@@ -20,7 +20,7 @@ I'm professionally working as Software Engineer.
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/madanofficial/" target="blank"><img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="madan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/madangangwarji/" target="blank"><img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="shashwat_tiwari_st" height="50" width="50" /></a>
+<a href="https://www.instagram.com/madangangwarji/" target="blank"><img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="madanaa" height="50" width="50" /></a>
 </p>
 
 
